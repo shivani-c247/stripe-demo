@@ -1,0 +1,1 @@
+export { default as paymentController } from './paymentController.js';
